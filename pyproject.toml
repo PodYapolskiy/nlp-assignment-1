@@ -1,0 +1,12 @@
+[project]
+name = "nlp-assignment-1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=3.3.2",
+    "ipykernel>=6.29.5",
+    "levenshtein>=0.26.1",
+    "rich>=13.9.4",
+]
